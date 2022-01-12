@@ -8,7 +8,6 @@ import java.util.Random;
 
 /**
  * Cascade final project
- * @author Jessica Lilland
  * @author Bryce Kunkle
  * @version Spring 2021
  */
